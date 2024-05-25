@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YF4002
 - 👀 I’m interested in programming, front-end/Back-end, web and mobile app development.
-- 🌱 I’m currently learning python and other programming languages.
+- 🌱 I’m currently working on projects
 - 💞️ I’m looking to collaborate on projects and anything else.
 - 📫 How to reach me : Linkedin: https://www.linkedin.com/in/yahaya-fofana-726b35227/       Gmail: Yahyafofana123@gmail.com
